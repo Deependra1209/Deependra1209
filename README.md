@@ -30,8 +30,8 @@
 
 <div align="center">
 
-![Deependra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeependraPratapSingh&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeependraPratapSingh&layout=compact&theme=tokyonight&hide_border=true)
+![Deependra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeependraPratapSingh855&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deependrapratapsingh855&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
