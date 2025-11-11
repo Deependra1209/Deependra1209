@@ -30,8 +30,8 @@
 
 <div align="center">
 
-![Deependra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeependraPratapSingh855&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deependrapratapsingh855&layout=compact&theme=tokyonight&hide_border=true)
+![Deependra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deependra1209&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deependra1209&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -43,10 +43,10 @@
   <a href="https://www.linkedin.com/in/deependra-pratap-singh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:deependra.pratap@example.com">
+  <a href="mailto:">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/DeependraPratapSingh">
+  <a href="https://github.com/Deependra1209">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
